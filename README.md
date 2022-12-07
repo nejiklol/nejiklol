@@ -4,9 +4,9 @@
 <h3 align="center">Computer science student, searching for work </h3>
 
 ![](https://komarev.com/ghpvc/?username=your-github-username)
-
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
 <!--
 **nejiklol/nejiklol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
