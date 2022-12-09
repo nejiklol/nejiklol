@@ -1,5 +1,4 @@
-### Hello there,Obi... 👋
-<h1 align="center">I'm <a>Ivan</a> 
+<h1 align="center">Hello there,Obi... I'm <a>Ivan 👋</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Computer science student, searching for work </h3>
 
