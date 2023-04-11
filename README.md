@@ -2,11 +2,11 @@
 
 <h3 align="center">Computer science student, searching for work </h3>
 
-![](https://komarev.com/ghpvc/?username=your-github-username)
+![](https://komarev.com/ghpvc/?username=nejiklol)
 
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daniilshat&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=daniilshat&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nejiklol&theme=solarized_dark)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nejiklol&theme=solarized_dark)
 
 
 
